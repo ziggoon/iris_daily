@@ -1,4 +1,4 @@
-# iris_daily
+# @iris_jpg
 twitter bot / personal project
 
 Basic HTML scraper to grab the Word of the Day from Dictionary.com
